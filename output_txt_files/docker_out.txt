@@ -1,11 +1,11 @@
-[2020-05-26 16:28:25,335] INFO in app: JSON payload: 
+[2020-05-28 23:19:32,157] INFO in app: JSON payload: 
 {'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
-[2020-05-26 16:28:25,411] INFO in app: Inference payload DataFrame: 
+[2020-05-28 23:19:32,266] INFO in app: Inference payload DataFrame: 
    CHAS     RM    TAX  PTRATIO      B  LSTAT
 0     0  6.575  296.0     15.3  396.9   4.98
-[2020-05-26 16:28:25,424] INFO in app: Scaling Payload: 
+[2020-05-28 23:19:32,283] INFO in app: Scaling Payload: 
    CHAS     RM    TAX  PTRATIO      B  LSTAT
 0     0  6.575  296.0     15.3  396.9   4.98
-[2020-05-26 16:28:25,428] INFO in app: Scaled Payload: [[0. 0. 0. 0. 0. 0.]]
-[2020-05-26 16:28:25,428] INFO in app: Prediction Output: [20.35373177134412]
-172.17.0.1 - - [26/May/2020 16:28:25] "POST /predict HTTP/1.1" 200 -
+[2020-05-28 23:19:32,288] INFO in app: Scaled Payload: [[0. 0. 0. 0. 0. 0.]]
+[2020-05-28 23:19:32,288] INFO in app: Prediction Output: [20.35373177134412]
+172.17.0.1 - - [28/May/2020 23:19:32] "POST /predict HTTP/1.1" 200 -
