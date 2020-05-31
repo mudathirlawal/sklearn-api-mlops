@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/<gh>/<mudathirlawal>/<sklearn-api-mlops>.svg?style=shield&circle-token=<f753a03ac233c5b2f0f50781d6ce59c97f3e045e>)](<https://app.circleci.com/pipelines/github/mudathirlawal/sklearn-api-mlops>)
+[![<mudathirlawal>](https://circleci.com/<gh>/<mudathirlawal>/<sklearn-api-mlops>.svg?style=shield)](<https://github.com/mudathirlawal/sklearn-api-mlops/tree/master>)
 
 ## Project Overview
 
