@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: sklearn-pod
+  labels:
+    app: sklearn-microservice-api 
+# This is the pod template  
+spec:
+  containers:
+  - name: sklearn
+    image: nigercode/sklearn-microservice-api:latest
+    command: ['sh', '-c', 'echo "Creating sklearn-pod ..." && sleep 3600']
+    ports:
+    - containerPort: 80
+  
