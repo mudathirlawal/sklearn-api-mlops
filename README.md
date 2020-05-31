@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/<gh>/<mudathirlawal>/<sklearn-api-mlops>.svg?style=shield)](<https://circleci.com/gh/mudathirlawal/sklearn-api-mlops>)
+[![CircleCI](https://circleci.com/gh/mudathirlawal/sklearn-api-mlops.svg?style=shield)](https://circleci.com/gh/mudathirlawal/sklearn-api-mlops)
 
 ## Project Overview
 
